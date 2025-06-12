@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace Ejercicio1
 {
     partial class Form1
     {
